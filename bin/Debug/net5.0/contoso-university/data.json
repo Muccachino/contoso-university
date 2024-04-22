@@ -1,0 +1,92 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Alexander",
+      "lastName": "Carson",
+      "enrollmentDate": "2012-04-23"
+    },
+    {
+      "id": "2",
+      "firstName": "Meredith",
+      "lastName": "Alonso",
+      "enrollmentDate": "2012-04-23"
+    },
+    {
+      "id": "3",
+      "firstName": "Arturo",
+      "lastName": "Balantino",
+      "enrollmentDate": "2009-04-20"
+    },
+    {
+      "id": "4",
+      "firstName": "Nino",
+      "lastName": "Olivetto",
+      "enrollmentDate": "2009-04-20"
+    },
+    {
+      "id": "5",
+      "firstName": "Lucas",
+      "lastName": "Staszewski",
+      "enrollmentDate": "2024-04-03"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1050",
+      "courseNumber": "1051",
+      "title": "Chemistry Advanced",
+      "credits": "5"
+    },
+    {
+      "id": "4022",
+      "courseNumber": "4022",
+      "title": "Microeconomics",
+      "credits": "3"
+    },
+    {
+      "id": "1045",
+      "courseNumber": "1045",
+      "title": "Calculus",
+      "credits": "4"
+    },
+    {
+      "id": "2042",
+      "courseNumber": "2042",
+      "title": "Literature",
+      "credits": "4"
+    },
+    {
+      "id": "3030",
+      "courseNumber": "3030",
+      "title": "Computer Science",
+      "credits": "4"
+    }
+  ],
+  "enrollments": [
+    {
+      "studentID": "1",
+      "courseID": "1050",
+      "grade": "A",
+      "id": "7308"
+    },
+    {
+      "studentID": "2",
+      "courseID": "4022",
+      "grade": "B",
+      "id": "90a3"
+    },
+    {
+      "studentID": "3",
+      "courseID": "1045",
+      "grade": "F",
+      "id": "9e23"
+    },
+    {
+      "studentID": "4",
+      "courseID": "2042",
+      "grade": "D",
+      "id": "0060"
+    }
+  ]
+}

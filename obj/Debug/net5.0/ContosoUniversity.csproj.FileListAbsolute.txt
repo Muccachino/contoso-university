@@ -191,3 +191,16 @@ C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\
 C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.sourcelink.json
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\contoso-university\data.json
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\contoso-university\package-lock.json
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\contoso-university\package.json
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\contoso-university\tsconfig.json
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\contoso-university\tsconfig.node.json
+C:\Users\lstaszewski\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
